@@ -1,0 +1,10 @@
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\bin\Debug\PiccyPicKP.BO.dll.config
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\bin\Debug\PiccyPicKP.BO.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\bin\Debug\PiccyPicKP.BO.pdb
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\bin\Debug\EntityFramework.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\bin\Debug\EntityFramework.xml
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\obj\Debug\PiccyPicKP.BO.csprojResolveAssemblyReference.cache
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\obj\Debug\PiccyPicKP.BO.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKP.BO\obj\Debug\PiccyPicKP.BO.pdb

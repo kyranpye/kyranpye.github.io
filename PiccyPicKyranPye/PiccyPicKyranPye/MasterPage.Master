@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="PiccyPic.Web.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="css/ccsreset.css" rel="stylesheet" />
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="HeadArea" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:Panel runat="server" ID="pnlWelcome" Visible="false" EnableViewState="false">
+            <div id="SignInMessage">
+                <p>
+                    Signed in as <asp:Label runat="server" ID="lblUsername" />.
+                </p>
+            </div>
+        </asp:Panel>
+        <nav>
+            <ul>
+                <li><a href="Default.aspx">Home</a></li>
+                <asp:PlaceHolder runat="server" ID="phLoggedOutLinks" Visible="true">
+                <li><a href="SignIn.aspx">Sign in</a></li>
+                <li><a href="Register.aspx">Register</a></li>
+                </asp:PlaceHolder>
+                <li><a href="Portfolio.aspx">Projects</a></li>
+                <li><a href="Enquiries.aspx">Enquiries</a></li>
+                <asp:PlaceHolder runat="server" ID="phLoggedInLinks" Visible="false">
+                <li><a href="MyPics.aspx">My Pics</a></li>
+                <li><a href="AddPic.aspx">Add Pic</a></li>
+                <li><a href="SignOut.aspx">Sign Out</a></li>
+                </asp:PlaceHolder>
+            </ul>
+        </nav>
+    <div>
+        <asp:ContentPlaceHolder id="MainArea" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <footer>
+                kyranpye&copy
+            <a href="Contact.aspx">Contact Us</a>
+    </footer>
+</body>
+</html>

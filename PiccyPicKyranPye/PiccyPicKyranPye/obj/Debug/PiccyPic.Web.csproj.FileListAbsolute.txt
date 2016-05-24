@@ -1,0 +1,14 @@
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\PiccyPic.Web.dll.config
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\PiccyPic.Web.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\PiccyPic.Web.pdb
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\EntityFramework.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\EntityFramework.SqlServer.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\PiccyPicKP.BO.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\PiccyPicKP.DataLayer.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\PiccyPicKP.BO.pdb
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\PiccyPicKP.DataLayer.pdb
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\EntityFramework.xml
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\bin\EntityFramework.SqlServer.xml
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\obj\Debug\PiccyPic.Web.csprojResolveAssemblyReference.cache
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\obj\Debug\PiccyPic.Web.dll
+C:\Users\kyran\Source\Workspaces\PiccyPicKP\PiccyPicKyranPye\PiccyPicKyranPye\PiccyPicKyranPye\obj\Debug\PiccyPic.Web.pdb
